@@ -1,2 +1,2 @@
 # KatasPersonalesGabriel
-Ejercicios de las Katas: ALgunos eejercicios en jupyter notebook
+Ejercicios de las Katas: ALgunos ejercicios en jupyter notebook
