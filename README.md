@@ -1,2 +1,3 @@
 # KatasPersonalesGabriel
-Ejercicios de las Katas: ALgunos ejercicios en jupyter notebook
+Ejercicios de las Katas.
+> Los ejercicios del Onboarding de Launch X
